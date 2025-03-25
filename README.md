@@ -37,11 +37,10 @@
 
 
 <div align="center">
-​    ![img](file:///C:\Users\YunJin\AppData\Local\Temp\ksohtml14168\wps4.jpg)
-
+​       ![img](./asset/wps4.jpg)
 红外热成像直接发现可见光无法看到的火灾热点（右图发红的部分)
 
-
+![image-20250325202459496](./asset/image-20250325202459496.png)
 
 
 
