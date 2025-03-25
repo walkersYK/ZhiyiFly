@@ -4,7 +4,7 @@
 
 <div> 本项目是一个关于可变形态无人机的设计，包含所有硬件代码以及安卓端控制代码
 
-![ZhiyiFly stm32](./assert/ZhiyiFly stm32.png)
+![ZhiyiFly stm32](./asset/ZhiyiFly stm32.png)
 
 
 
@@ -26,11 +26,11 @@
 - ✅ 支持多旋翼与固定翼
 - ✅支持移动设备进行控制
 
-![image-20250325184720257](./assert/image-20250325184720257.png)
+![image-20250325184720257](./asset/image-20250325184720257.png)
 
 ### ✨ Zeabur (一键部署)
 
-![img](./assert/wps1.jpg)![img](./assert/wps2.jpg)![img](./assert/wps3.jpg)
+![img](./asset/wps1.jpg)![img](./asset/wps2.jpg)![img](./asset/wps3.jpg)
 
 
 
@@ -42,6 +42,8 @@
 红外热成像直接发现可见光无法看到的火灾热点（右图发红的部分)
 
 
+
+![image-20250325202459496](./asset/image-20250325202459496.png)
 
 
 
