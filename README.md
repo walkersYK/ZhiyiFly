@@ -30,7 +30,7 @@
 
 ### ✨ Zeabur (一键部署)
 
-![img](./assert/wps1.jpg)![img](./asset/wps2.jpg)![img](./assert/wps3.jpg)
+![img](./asset/wps1.jpg)![img](./asset/wps2.jpg)![img](./asset/wps3.jpg)
 
 
 
